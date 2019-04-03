@@ -1,0 +1,16 @@
+{
+  "name": "magic-mirror-telemetry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iain Moncrief",
+  "license": "ISC",
+  "dependencies": {
+    "async-threading": "^1.0.2",
+    "request": "^2.88.0",
+    "uuid": "^3.3.2"
+  }
+}
